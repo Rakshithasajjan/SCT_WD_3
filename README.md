@@ -42,3 +42,4 @@ The project showcases DOM manipulation, event handling, dynamic quiz rendering, 
 
 #output:
 
+![Image](https://github.com/user-attachments/assets/02aff148-8051-4ab8-8c78-4b001241b5f1)
